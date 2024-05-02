@@ -38,7 +38,7 @@ YOUTUBE_API_VERSION = 'v3'
 bot = commands.Bot(
     command_prefix='!',
     help_command=None,
-    intents=discord.Intents.all(),
+    intents=nextcord.Intents.all(),
     strip_after_prefix=True,
     case_insensitive=True, 
 )
