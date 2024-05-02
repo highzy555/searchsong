@@ -1,0 +1,4 @@
+discord
+nextcord
+flask
+google-api-python-client
